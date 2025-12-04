@@ -1,0 +1,11 @@
+D:\class\hieu dz\PR\pr_01\pr01\bin\Debug\pr01.exe.config
+D:\class\hieu dz\PR\pr_01\pr01\bin\Debug\pr01.exe
+D:\class\hieu dz\PR\pr_01\pr01\bin\Debug\pr01.pdb
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.csproj.AssemblyReference.cache
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.csproj.SuggestedBindingRedirects.cache
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.Form1.resources
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.Properties.Resources.resources
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.csproj.GenerateResource.cache
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.csproj.CoreCompileInputs.cache
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.exe
+D:\class\hieu dz\PR\pr_01\pr01\obj\Debug\pr01.pdb
